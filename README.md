@@ -7,7 +7,7 @@ De tool helpt bij het analyseren van vliegtuig- en onderdelenrapporten en maakt 
 
 ---
 
-## 🎯 Doel
+## Doel
 
 PartsCare Copilot is gebouwd om:
 
@@ -19,7 +19,7 @@ De applicatie is bedoeld als intern hulpmiddel voor PartsCare.
 
 ---
 
-## ✨ Belangrijkste features (huidige & geplande)
+## Belangrijkste features (huidige & geplande)
 
 - ✅ Desktop GUI (Python) om bestanden eenvoudig te selecteren en te verwerken  
 - ✅ Analyse van onderdelen- en fleet-rapporten  
@@ -30,7 +30,7 @@ De applicatie is bedoeld als intern hulpmiddel voor PartsCare.
 
 ---
 
-## 🧱 Tech stack
+## Tech stack
 
 - **Taal:** Python 3.12  
 - **Type:** Desktopapplicatie (GUI)  
@@ -38,7 +38,7 @@ De applicatie is bedoeld als intern hulpmiddel voor PartsCare.
 
 ---
 
-## 🖥️ Lokale installatie (development)
+## Lokale installatie (development)
 
 > Deze sectie is bedoeld voor ontwikkeling op een Mac/PC.
 
