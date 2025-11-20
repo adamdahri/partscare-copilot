@@ -21,12 +21,12 @@ De applicatie is bedoeld als intern hulpmiddel voor PartsCare.
 
 ## Belangrijkste features (huidige & geplande)
 
-- ✅ Desktop GUI (Python) om bestanden eenvoudig te selecteren en te verwerken  
-- ✅ Analyse van onderdelen- en fleet-rapporten  
-- ✅ Export van data naar gestructureerde formaten (bijv. Excel)  
-- 🚧 Toekomstig: AI-laag voor automatische interpretatie van component lifecycle  
-- 🚧 Toekomstig: koppeling met interne PartsCare-tools en -databases  
-- 🚧 Toekomstig: uitgebreide logging en rapportage
+- Desktop GUI (Python) om bestanden eenvoudig te selecteren en te verwerken  
+- Analyse van onderdelen- en fleet-rapporten  
+- Export van data naar gestructureerde formaten (bijv. Excel)  
+- Toekomstig: AI-laag voor automatische interpretatie van component lifecycle  
+- Toekomstig: koppeling met interne PartsCare-tools en -databases  
+- Toekomstig: uitgebreide logging en rapportage
 
 ---
 
