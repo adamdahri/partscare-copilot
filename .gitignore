@@ -1,0 +1,18 @@
+# Virtuele omgevingen
+.venv/
+venv/
+
+# Python cache / bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Build & distributie
+build/
+dist/
+
+# macOS bestanden
+.DS_Store
+
+# VS Code instellingen (optioneel)
+.vscode/
